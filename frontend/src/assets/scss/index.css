@@ -1,0 +1,35 @@
+.bg-f8f8f8 {
+  background-color: #f8f8f8;
+}
+.countryselect {
+  padding: 10px;
+
+  border: 1px solid #80808045;
+  border-radius: 4px;
+  width: 100%;
+}
+.image-upload {
+  background: #f4f5f6;
+  border: 2px dashed #8080805e;
+  border-radius: 4px;
+  height: 250px;
+}
+.cloud-img-w {
+  width: 50px;
+}
+.choosefile-up .custom-file-input {
+  z-index: inherit !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+.h-250px {
+  height: 250px;
+}
+.btn-widthsize {
+  width: 150px;
+}
